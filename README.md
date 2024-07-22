@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaiminisafk
+- 👋 Hi, I’m @Jaimin
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on anything i have knowlwdge of
